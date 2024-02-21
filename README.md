@@ -1,6 +1,6 @@
 <h1>Walter Guerrero <br/>
 <br>
-<a href="https://github.com/walterg7">Aspiring Blue Teamer</a>
+<a href="https://github.com/walterg7">Blue Teamer</a>
 
 <h2>My Projects:</h2>
 
@@ -10,5 +10,4 @@
   - Configured a custom table via Log Analytics Workspace to query the extracted data in Azure, showing coordinates of attackers
   - Created a custom Sentinel workbook to display a map showing where the attacks are coming from and the magnitude of the attacks
   - Attacked the honeypot via Kali Linux 
-- <b>Active Directory Home Lab (working on importing the report and pictures onto GitHub)</b>
 - <b>Security Operations Center (SOC) Homelab (in progress)</b>
