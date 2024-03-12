@@ -1,6 +1,5 @@
 <h1>Walter Guerrero <br/>
 <br>
-<a href="https://github.com/walterg7">Purple Team Security</a>
 
 <h2>My Projects:</h2>
 
@@ -19,5 +18,3 @@
   - Attacked the honeypot via Kali Linux
     
 </br>
-
-<h2>TryHackMe</h2>
